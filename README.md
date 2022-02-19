@@ -18,7 +18,7 @@
 
 ## Libraries
  ### 1- Rounded Image View
-* implementation 'com.makeramen:roundedimageview:2.3.0'
+* ***implementation 'com.makeramen:roundedimageview:2.3.0'***
 
  ### 2- Material Design
-* implementation 'com.google.android.material:material:1.5.0'
+* ***implementation 'com.google.android.material:material:1.5.0'***
