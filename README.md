@@ -20,5 +20,5 @@ themes.xml => this theme will be displayed when dialog opened ( Transparent them
  Roundedimageview
 * implementation 'com.makeramen:roundedimageview:2.3.0'
 
- Material Design
+ ### Material Design
 * implementation 'com.google.android.material:material:1.5.0'
