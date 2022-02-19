@@ -17,8 +17,8 @@ themes.xml => this theme will be displayed when dialog opened ( Transparent them
 * resim.png
 
 ## Libraries
-Roundedimageview
-implementation 'com.makeramen:roundedimageview:2.3.0'
+- Roundedimageview
+* implementation 'com.makeramen:roundedimageview:2.3.0'
 
 Material Design
 implementation 'com.google.android.material:material:1.5.0'
