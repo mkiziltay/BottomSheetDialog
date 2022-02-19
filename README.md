@@ -24,4 +24,4 @@
 * ***implementation 'com.google.android.material:material:1.5.0'***
 
 ## Screen View Example
-src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt = "Adding Reminders" width=200 height=350>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt = "Adding Reminders" width=200 height=350>
