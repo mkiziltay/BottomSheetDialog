@@ -1,7 +1,7 @@
 # BottomSheetDialog
 
 * min sdk version : API 26
-We used BottomSheetDialog.class in this project.
+* We used BottomSheetDialog.class in this project.
 
 ## code written directories 
 MainActivity.java
