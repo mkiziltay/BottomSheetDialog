@@ -6,10 +6,10 @@
 ## code written directories 
 * MainActivity.java
 * bottom_background.xml 
-bottom_sheet_background.xml => dialog layout background
-layout_bottom_sheet.xml => dialog layout.
-colors.xml => this colors used in project.
-themes.xml => this theme will be displayed when dialog opened ( Transparent theme ).
+* bottom_sheet_background.xml => dialog layout background
+* layout_bottom_sheet.xml => dialog layout.
+* colors.xml => this colors used in project.
+* themes.xml => this theme will be displayed when dialog opened ( Transparent theme ).
 
 ## Images
 * favorite.xml
