@@ -17,7 +17,7 @@ themes.xml => this theme will be displayed when dialog opened ( Transparent them
 * resim.png
 
 ## Libraries
- ### 1- Roundedimageview
+ ### 1- Rounded Image View
 * implementation 'com.makeramen:roundedimageview:2.3.0'
 
  ### 2- Material Design
