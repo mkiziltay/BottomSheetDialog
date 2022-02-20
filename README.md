@@ -10,7 +10,7 @@
 * bottom_sheet_background.xml => dialog layout background
 * layout_bottom_sheet.xml => dialog layout.
 * colors.xml => this colors used in project.
-* themes.xml => this theme will be displayed when dialog opened ( Transparent theme ).
+* themes.xml => this theme options will be displayed when dialog opened ( Transparent theme ).
 
 ## Used : Images & Vectors
 * favorite.xml
@@ -18,7 +18,7 @@
 * resim.png
 
 ## Used : Libraries
-  add this two library to path : ./build.graddle(project:app)
+  add this two library to path : ./build.gradle(project:app)
  ### 1- Rounded Image View
 * ***implementation 'com.makeramen:roundedimageview:2.3.0'***
 
