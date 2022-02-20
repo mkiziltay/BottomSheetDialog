@@ -18,7 +18,7 @@
 * resim.png
 
 ## Used : Libraries
-  add this two library to build.graddle(project:app)
+  add this two library to path : ./build.graddle(project:app)
  ### 1- Rounded Image View
 * ***implementation 'com.makeramen:roundedimageview:2.3.0'***
 
