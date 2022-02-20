@@ -1,9 +1,10 @@
 # BottomSheetDialog
 
 * min sdk version : API 26
+* Target sdk version : API 30
 * We used BottomSheetDialog.class in this project.
 
-## code written directories 
+## Code Written Directories 
 * MainActivity.java
 * bottom_background.xml 
 * bottom_sheet_background.xml => dialog layout background
@@ -11,12 +12,12 @@
 * colors.xml => this colors used in project.
 * themes.xml => this theme will be displayed when dialog opened ( Transparent theme ).
 
-## Images
+## Used : Images & Vectors
 * favorite.xml
 * share.xml
 * resim.png
 
-## Libraries
+## Used : Libraries
  ### 1- Rounded Image View
 * ***implementation 'com.makeramen:roundedimageview:2.3.0'***
 
