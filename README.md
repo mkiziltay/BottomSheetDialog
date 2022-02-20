@@ -24,4 +24,4 @@
 * ***implementation 'com.google.android.material:material:1.5.0'***
 
 ## Screen View Example
-<img src="https://github.com/mkiziltay/BottomSheetDialog/blob/master/screen%20View.JPG" alt = "Adding Reminders" width=200 height=350>
+<img src="https://github.com/mkiziltay/BottomSheetDialog/blob/master/screen%20View.JPG" alt = "Adding Reminders" width=394 height=851>
