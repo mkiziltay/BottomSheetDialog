@@ -1,7 +1,7 @@
 # BottomSheetDialog
 
 * min sdk version : API 26
-* Target sdk version : API 30
+* Target sdk version : API 31
 * We used BottomSheetDialog.class in this project.
 
 ## Code Written Directories 
